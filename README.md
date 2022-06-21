@@ -1,2 +1,2 @@
-# shaderbot
-Public Discord Bot
+### Shader Bot
+A simple public Discord Bot.
