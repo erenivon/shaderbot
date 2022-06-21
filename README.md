@@ -1,0 +1,2 @@
+# shaderbot
+Public Discord Bot
